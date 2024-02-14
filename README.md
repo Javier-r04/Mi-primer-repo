@@ -3,4 +3,5 @@
 
 ## Integrantes ##
 + Javier Rodríguez
-+ Daniel Garcia
++ Adrian Matul
+
